@@ -1,0 +1,6 @@
+C:\Users\RyansHomePC\Desktop\Sophomore Year\Other\LucidSoftwareProgrammingProject\LucidSoftwareProgrammingProject\bin\Debug\LucidSoftwareProgrammingProject.exe.config
+C:\Users\RyansHomePC\Desktop\Sophomore Year\Other\LucidSoftwareProgrammingProject\LucidSoftwareProgrammingProject\bin\Debug\LucidSoftwareProgrammingProject.exe
+C:\Users\RyansHomePC\Desktop\Sophomore Year\Other\LucidSoftwareProgrammingProject\LucidSoftwareProgrammingProject\bin\Debug\LucidSoftwareProgrammingProject.pdb
+C:\Users\RyansHomePC\Desktop\Sophomore Year\Other\LucidSoftwareProgrammingProject\LucidSoftwareProgrammingProject\obj\Debug\LucidSoftwareProgrammingProject.csprojResolveAssemblyReference.cache
+C:\Users\RyansHomePC\Desktop\Sophomore Year\Other\LucidSoftwareProgrammingProject\LucidSoftwareProgrammingProject\obj\Debug\LucidSoftwareProgrammingProject.exe
+C:\Users\RyansHomePC\Desktop\Sophomore Year\Other\LucidSoftwareProgrammingProject\LucidSoftwareProgrammingProject\obj\Debug\LucidSoftwareProgrammingProject.pdb
